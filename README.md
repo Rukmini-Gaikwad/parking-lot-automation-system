@@ -1,4 +1,4 @@
-# parking-lot-automation-system
+# ParkEngine : parking-lot-automation-system
 
 ParkEngine is a Java-based, console-driven parking management system designed using Object-Oriented Programming (OOP) principles and design patterns.
 It streamlines vehicle entry and exit, automated parking space allocation, ticket generation, parking fee calculation, and payment simulation. 
