@@ -15,13 +15,13 @@ The application demonstrates real-world parking operations through a modular, ma
 - Prevents duplicate active parking for the same vehicle.
 
 # Technologies Used
-Java
-Object-Oriented Programming (OOP)
-Java Collections Framework
-Java Date and Time API
-Factory, Singleton, Observer, and Strategy design patterns
+- Java
+- Object-Oriented Programming (OOP)
+- Java Collections Framework
+- Java Date and Time API
+- Factory, Singleton, Observer, and Strategy design patterns
 
 # Future Enhancements
-Spring Boot REST APIs
-MySQL database integration
-Web-based parking dashboard
+- Spring Boot REST APIs
+- MySQL database integration
+- Web-based parking dashboard
